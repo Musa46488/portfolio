@@ -6,7 +6,7 @@ Built with **Next.js, TypeScript, Tailwind CSS, and Motion**, with a focus on re
 
 ## Live Portfolio
 
-**[View Live Portfolio](YOUR_VERCEL_URL)**
+**[View Live Portfolio](https://mzk46488.vercel.app/)**
 
 ---
 
@@ -183,6 +183,7 @@ I build modern web applications, mobile experiences, and the systems behind them
 
 ### Connect
 
+- Portfolio: [mzk46488.vercel.app](https://mzk46488.vercel.app/)
 - [LinkedIn](https://www.linkedin.com/in/musa-khan46488)
 - [GitHub](https://github.com/Musa46488)
 - Email: musa46488@gmail.com
