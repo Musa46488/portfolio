@@ -1,36 +1,196 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Musa Zeeshan Khan — Developer Portfolio
+
+A modern, interactive developer portfolio showcasing my work across **full-stack web development, cross-platform mobile applications, and backend systems**.
+
+Built with **Next.js, TypeScript, Tailwind CSS, and Motion**, with a focus on responsive design, performance, and meaningful interactions.
+
+## Live Portfolio
+
+**[View Live Portfolio](YOUR_VERCEL_URL)**
+
+---
+
+## About the Portfolio
+
+This portfolio was designed and developed to present my experience, technical skills, projects, and services through an interactive digital experience.
+
+Rather than using a traditional portfolio layout, the website combines editorial typography, immersive project visuals, subtle motion, and a dark digital-studio aesthetic.
+
+The portfolio highlights my work across:
+
+- Full-Stack Web Development
+- Cross-Platform Mobile Development
+- Backend & REST API Development
+
+---
+
+## Features
+
+- Responsive design across desktop, tablet, and mobile
+- Interactive project showcase
+- Featured and expandable project sections
+- Smooth scroll-based reveal animations
+- Motion-powered interactions
+- Animated navigation
+- Technology and skills showcase
+- Professional experience timeline
+- Services section
+- Contact and social links
+- Optimized production build with Next.js
+
+---
+
+## Tech Stack
+
+### Framework
+
+- Next.js
+- React
+- TypeScript
+
+### Styling
+
+- Tailwind CSS
+
+### Animation
+
+- Motion / Framer Motion
+
+### Deployment
+
+- Vercel
+
+---
+
+## Featured Projects
+
+The portfolio includes projects across web and mobile development, including:
+
+### Bug Management System
+
+Full-stack bug tracking and ticket management platform.
+
+**Tech:** Next.js · Node.js · Express.js · PostgreSQL · JWT · Tailwind CSS
+
+### Task Management Board
+
+Full-stack task management platform with CRUD operations and workflow state transitions.
+
+**Tech:** Next.js · NestJS · PostgreSQL · Tailwind CSS
+
+### E-Commerce Applications
+
+Web and mobile shopping experiences focused on product discovery and user-friendly interfaces.
+
+### Movie & Cinema App
+
+Cross-platform Flutter application for movie discovery and cinema-related experiences.
+
+Additional mobile projects are available through the interactive **More Projects** section.
+
+---
+
+## Project Structure
+
+```text
+musa-portfolio/
+├── public/
+│   └── images/
+│
+├── src/
+│   ├── app/
+│   ├── components/
+│   ├── data/
+│   ├── lib/
+│   └── types/
+│
+├── next.config.ts
+├── package.json
+└── README.md
+```
+
+> The structure may evolve as the portfolio continues to develop.
+
+---
 
 ## Getting Started
 
-First, run the development server:
+### Prerequisites
+
+Make sure you have Node.js and npm installed.
+
+```bash
+node --version
+npm --version
+```
+
+### Clone the repository
+
+```bash
+git clone https://github.com/Musa46488/musa-portfolio.git
+cd musa-portfolio
+```
+
+### Install dependencies
+
+```bash
+npm install
+```
+
+### Start the development server
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open `http://localhost:3000` in your browser.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### Production build
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+```bash
+npm run build
+npm start
+```
 
-## Learn More
+---
 
-To learn more about Next.js, take a look at the following resources:
+## Design Direction
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+The portfolio follows a **Dark Digital Studio × Interactive Futurism** visual direction.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+The design uses:
 
-## Deploy on Vercel
+- Deep charcoal surfaces
+- Violet and cool-blue accents
+- Layered interface visuals
+- Subtle glass and depth effects
+- Editorial typography
+- Controlled motion
+- Interactive hover states
+- Scroll-based storytelling
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+The goal is to create a portfolio that feels like a digital product rather than a traditional résumé website.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+
+## Developer
+
+**Musa Zeeshan Khan**
+
+Full-Stack & Cross-Platform Developer based in Lahore, Pakistan.
+
+I build modern web applications, mobile experiences, and the systems behind them.
+
+### Connect
+
+- [LinkedIn](https://www.linkedin.com/in/musa-khan46488)
+- [GitHub](https://github.com/Musa46488)
+- Email: musa46488@gmail.com
+
+---
+
+## License
+
+This portfolio and its design are intended for personal portfolio use.
+
+Please do not reproduce the complete design, branding, or personal content as your own.
