@@ -31,12 +31,17 @@ export function Navbar() {
   return (
     <header
       className={cn(
-        "fixed inset-x-0 top-0 z-50 transition-all duration-500",
-        scrolled
-          ? "border-b border-border bg-bg/70 backdrop-blur-lg"
-          : "border-b border-transparent",
+        "fixed inset-x-0 top-0 z-50 transition-colors duration-500",
+        scrolled ? "border-b border-border" : "border-b border-transparent",
       )}
     >
+      <div
+        className={cn(
+          "absolute inset-0 -z-10 transition-all duration-500",
+          scrolled ? "bg-bg/70 backdrop-blur-lg" : "bg-transparent",
+        )}
+      />
+
       <Container className="flex h-20 items-center justify-between">
         <a
           href="#top"
