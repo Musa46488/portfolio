@@ -1,0 +1,9 @@
+export { About } from "./about";
+export { Contact } from "./contact";
+export { Experience } from "./experience";
+export { FeaturedWork } from "./featuredwork";
+export { Hero } from "./hero";
+export { HowWeWork } from "./howwework";
+export { Introduction } from "./introduction";
+export { Services } from "./services";
+export { TechEcosystem } from "./techecosystem";
